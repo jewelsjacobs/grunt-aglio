@@ -41,7 +41,7 @@
     "blueprint"
   ],
   "dependencies": {
-    "aglio": "~1.18",
+    "aglio": "git://github.com/jewelsjacobs/aglio.git",
     "underscore": "^1.7.0",
     "when": "^3.4.4"
   }
